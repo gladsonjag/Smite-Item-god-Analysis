@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smite-analysis",
+  "private_key_id": "7e21994507848eb92608e40678b9a3089c1e0606",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqDPRCBTXNsVmv\nk1M0m6yxQ7QeR8PvgGNioU16VN1mWzkCA/3Uhg4jrrxbJReg2Z9qjiBkbzI2sj4O\n0s0xXnFWGLiU/e2gJyy48RpHOZrxPDkM/63rxacb3p6uq5IWjE8sqlM9w6tI3ejP\nH+PnUMs2YPWYDzo+9a0Ye4Ypj6n+KWmoV9qVgQeCx/YAvm92VygQ9b3kVTAcnWuw\nU9hN7OAqeaq87wZnYpjLXltkhiREF9l65JJb6BwuTYEYuBB+pKjD0c7niTBG2JAO\n2LS2Iq6FSYZCHMHNFvNvFCOeeTQ2EmyClhmaVhgBaDZZQ9JvUHF9m5toAbd4U11b\np36kTF2RAgMBAAECggEAALMU8VovVa1JGF1oYwSdugz0cyHW2IFhGnxdyTo+i7el\n85aSNyTMbuRYU54PcgXzKSKnvdug2HP028xaM73KHl4m3dYKYc8UPzgesSeET6gj\nw/EfuG/G6pwIoxQczolW06Q2IdodAxIgOkBM7ukSLO/kX4yQfMad86yhnKiOo0Q4\nOpKlqtcN+lM0vAH5nsNZa0gcyGibBM4cZrF8g9tJnJvkqj64dpxom1tupRVM/nbL\npLpMR/O2L6PBKdUVD6dXNlF6/w6loXwTB81ZjUN2C4S1lBMCSMW5Fr9gc+H+ACFF\nAVwabz31+2d/aegKnwJkHGWueVMueaKmxJwkBacIwQKBgQDXVH8eMMbmm3EZPpq2\nebt58myGfMuKsJQ2Fjip+1NUtR50CVkitOVXtiE3DHPtyMOuAKwtL9HNDfrxtMnD\nTJ2YEEb9HYiBKqc3sEwveaD16DQWB42GlK4u0YoIUBgK+pj58ZSFz/RfFmNkHz5z\nzGHMFiWg2s21snt9NhwxN2JbdQKBgQDKKyIxfFmjAxToI9b42wXbeoSY51vaBGlM\nYyOHce6/+N1sIAnSeveKOy8WLlelnPP5CLWJxw+4krSNH7WeicPGM0OvGDRyNq4y\ngSGk8FcT+vF0CudjsG0T7mEV7p8u0ExPZ7FAF31tLTjW+HMEYWa+3QXdG/aqZdFq\nV/UNbpHiLQKBgDu+7iZqUkXaC199x1+qFyKW6RXHupIYvIblU4OWgGCYgIKhtWGz\n346eskib4+6uLd0xwpQnGIdUwbQe/Xx63Z87pPbGIwHz28HP4NOrY8XXT9xs7A/T\nYSEMcsgrsQAa2CdBqHwYXy2jAKDfKmzm4JvH6VjgXQN1Kl5rjRb6zwehAoGBAJaA\nTdAxFjm4TZQTOjHAOzgMmTGK6mH+7rSjCQwH0Qiwp4WaxDUgva72KDOHBFCR6z31\nMdADlLx+2lJEzNvdCxU9jKGIj2KHOl72qqkzEmAZbC5K/77C1DEGQNgm7/HVtzlV\npCpmUkU4aRv/kQAt0mM7/uV/r71iVuen2xHIwmlxAoGAenKLARpX65iKKO342liA\nnjsGcHgYDE9UAv0E53kF1Fyab6eryg9IxK2ldwHIyH4JXVqSDvvvCePUo4c/md8k\nPvw+2OPisSM5WVkfsThGANWYg0ugMNQIUj1bnidRPRdTpk0eSzxaUkXPxYgKQHJb\nfCtiIsRU5/px4CLshS0fXzc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jordan@smite-analysis.iam.gserviceaccount.com",
+  "client_id": "114847410469552080317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jordan%40smite-analysis.iam.gserviceaccount.com"
+}
